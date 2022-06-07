@@ -1,2 +1,2 @@
-# hello-pyscript
+# About
 Hello World using PyScript
